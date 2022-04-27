@@ -183,7 +183,7 @@ img {
     
     fill: #757575;
     color: #757575;
-    transition: fill var(--typical-effect-time) var(--typical-transition-timing-function);
+    transition: color var(--typical-effect-time) var(--typical-transition-timing-function);
 }
 
 .contact-link :hover,
